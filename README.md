@@ -46,12 +46,12 @@ Or visit: `https://rakshithdn.github.io/To-Do-List/`
 
 ## 📁 Folder Structure
 
-To-Do-List/
+"To-Do-List/
 ├── index.html
 ├── style.css
 ├── script.js
 └── images/
-└── icon.png
+└── icon.png"
 
 yaml
 Copy
