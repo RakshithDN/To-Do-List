@@ -11,7 +11,7 @@ A simple to-do list web application built using HTML, CSS, and JavaScript.
 [Live App](https://rakshithdn.github.io/To-Do-List/)
 
 ## Screenshot
-![screenshot](screenshot.png)
+![screenshot](todoScreenshot.png)
 
 ## Author
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/RakshithDN/)
