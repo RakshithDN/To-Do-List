@@ -42,20 +42,9 @@ Or visit: `https://rakshithdn.github.io/To-Do-List/`
 3. Tasks appear in a dynamic list
 4. Buttons for checking or deleting tasks
 
----
 
-## 📁 Folder Structure
 
-"To-Do-List/
-├── index.html
-├── style.css
-├── script.js
-└── images/
-└── icon.png"
 
-yaml
-Copy
-Edit
 
 ---
 
